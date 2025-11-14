@@ -1,4 +1,4 @@
-function matrix = swaprows(matrix, row1, row2)
+function matrix = swap(matrix, row1, row2)
 
 arguments (Input)
   matrix (:, :) double

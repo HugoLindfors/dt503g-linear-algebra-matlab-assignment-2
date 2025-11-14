@@ -1,4 +1,4 @@
-function matrix = scalerow(matrix, row, scalar)
+function matrix = scale(matrix, row, scalar)
 
 arguments (Input)
   matrix (:, :) double
